@@ -17,7 +17,7 @@ Primeiro crie um copilot me banco (Veja o tutorial no arquivo [Criando um Copilo
 ### Criando a mensagem
 - Dentro do tópico de erros, crie uma mensagem ou uma ação de sua escolha na condição default.
 
-## Gerenciando a qualidade de resposta com GenAI
+## Gerenciando a qualidade da resposta com GenAI
 Em uma ação que cria respostas generativas, clicando em edit na data source você pode definir:
 ### Base de conhecimentos
 - Quais base de conhecimento que a IA irá usar para gera a resposta.
